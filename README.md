@@ -315,3 +315,4 @@ the first change in branch1
 the second change in branch1
 the third change in branch1
 Доп коммит 1 branch1
+Доп коммит 2 branch1
